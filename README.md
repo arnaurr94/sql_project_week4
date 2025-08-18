@@ -39,7 +39,6 @@ The final deliverable is this GitHub repository, which includes:
 
 5. **Reporting**
    - Python visualizations (matplotlib, seaborn).
-   - Presentation slides with key insights.
 
 ---
 
@@ -49,7 +48,6 @@ The final deliverable is this GitHub repository, which includes:
 - `database/erd.png` → entity relationship diagram.
 - `database/queries.sql` → SQL queries used.
 - `python/` → all analysis code wrapped in functions.
-- `presentation/` → slides of the project.
 
 ---
 
